@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
