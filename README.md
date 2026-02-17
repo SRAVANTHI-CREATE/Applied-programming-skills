@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
