@@ -130,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0841-keys-and-rooms](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0841-keys-and-rooms](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
