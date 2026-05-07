@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
