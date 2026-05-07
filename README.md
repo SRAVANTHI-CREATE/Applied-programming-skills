@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0994-rotting-oranges](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
