@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,8 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SRAVANTHI-CREATE/Applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
